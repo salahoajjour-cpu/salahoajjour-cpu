@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Salah Eddine Ajjour
-🎓 Aspiring Data Engineer & Cybersecurity Enthusiast
+# Hi, I'm Salah Eddine Ajjour
+Aspiring Data Engineer & Cybersecurity Enthusiast
 ## - What I'm Working On
 Currently, I'm working on:
 - Data analysis projects using Python
 - Small cybersecurity experiments and learning ethical hacking
-- Improving my programming skills in Java (for a certificate)
+- Learning web development intensively
 
 ## - Tools I Use
-- **Programming:** Python, Java, C  , C++ , HTML , CSS , JS , PHP , SQL
-- **Data & Analysis:** Pandas, NumPy, Matplotlib, Seaborn, SQL  , 
+- **Programming:** Python, Java, C , C++ , HTML , CSS , JS , PHP , SQL
+- **Data & Analysis:** Pandas, NumPy, Matplotlib, Seaborn, SQL , scikit-learn 
 - **Other:** Git, GitHub, LaTeX  , Excel , ...
 
 ## - How to Reach Me
